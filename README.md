@@ -1,6 +1,6 @@
 # Travel Nibbler
 
-Allows users to create itineraries for trips.
+Plan your next trips with this all-in-one itinerary app! Once you create an itinerary, add locations you would like to visit during your trip and watch an integrated Google map generate your locations in real-time.
 
 ## Team
 
