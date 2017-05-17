@@ -1,4 +1,4 @@
-# Travel Nobbler
+# Travel Nibbler
 
 > Allows users to create itineraries for trips.
 
