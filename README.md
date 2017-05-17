@@ -1,6 +1,6 @@
-# Project Name
+# Travel Nobbler
 
-> Pithy project description
+> Allows users to create itineraries for trips.
 
 ## Team
 
